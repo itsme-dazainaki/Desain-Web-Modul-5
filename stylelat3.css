@@ -1,0 +1,17 @@
+body {
+    background-color: darkorchid;
+}
+h1 {
+    color: darksalmon;
+}
+p {
+    color: lightgreen;
+    font-family: cursive;
+}
+
+.pow {
+    background-color: tomato;
+    width: 500px;
+    padding-left: 10;
+    font-family: cursive;
+}

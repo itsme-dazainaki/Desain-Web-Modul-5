@@ -1,0 +1,161 @@
+@font-face {
+    font-family: 'font1';
+    src: url("Sindentosa.ttf");
+}
+@font-face {
+    font-family: 'font2';
+    src: url("Valentina.ttf");
+}
+
+body {
+    margin: 0px;
+}
+
+a {
+    text-decoration: none;
+}
+
+header {
+    position: relative;
+    width: 100%;
+    height: 240px;
+    background-color: rgb(235, 143, 235);
+}
+
+.header-container {
+    position: relative;
+    width: 1200px;
+    height: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.header-column {
+    position: relative;
+    width: 360px;
+    margin-left: 510px;
+    margin-top: 10px;
+    float: left;
+}
+
+.icon {
+    position: relative;
+    width: 100px;
+    height: 100px;
+    margin-left: 85px;
+    margin-top: 0px;
+    margin-bottom: 40px;
+}
+
+ul {
+    position: relative;
+    overflow: hidden;
+    background-color: rgb(202, 74, 202);
+    padding: 0;
+    margin: 0;
+    top: 90px;
+    list-style-type: none;
+    width: 100%;
+    font-family: arial;
+
+}
+
+li {
+    position: relative;
+    float: left;
+    left: 480px;
+    margin-left: 12px;
+    margin-right: 12px;
+    font-family: arial;
+}
+
+li a {
+    color: #ffffff;
+    display: inline-block;
+    text-align: center;
+    padding: 10px;
+    text-decoration: none;
+    font-size: x-large;
+    font-family: font2;
+}
+
+li a:hover {
+    background-color: rgb(189, 92, 189);
+}
+
+#main {
+    background-image: url('pas\ \(3\).gif');
+}
+
+.main-content {
+    position: relative;
+    overflow: hidden;
+    width: auto;
+    height: 1024px;
+    margin: 0px;
+    background-repeat: no-repeat;
+}
+.main-content2 {
+    position: relative;
+    overflow: hidden;
+    width: auto;
+    height: 800px;
+    margin: 0px;
+    top: 25px;
+    background-repeat: no-repeat;
+}
+
+.gate {
+    position: relative;
+    width: 350px;
+    left: 550px;
+    float: left;
+    top: 100px;
+    margin-right: 20px;
+}
+
+.font-gate {
+    position: relative;
+    font-family: font2;
+    color: rgb(104, 3, 104);
+    right: 150px;
+    top: 340px;
+    font-size: 50px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.font {
+    position: relative;
+    font-family: font1;
+    color: rgb(104, 3, 104);
+    right: 150px;
+    top: 340px;
+    font-size: 50px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+#footer-container {
+    position: relative;
+    height: 250px;
+    background-color: rgb(235, 203, 235);
+}
+
+.footer-column {
+    position: relative;
+    width: 360px;
+    left: 350px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    float: left;
+}
+
+.foot {
+    position: relative;
+    width: 120px;
+    height: 120px;
+    float: left;
+    padding-left: 75px;
+}
+

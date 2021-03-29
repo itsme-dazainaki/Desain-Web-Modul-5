@@ -1,0 +1,25 @@
+body {
+    background-color: lightsalmon;
+}
+h1 {
+    color:darkred;
+}
+p {
+    color:brown;
+    font-family: cursive;
+}
+
+.pow {
+    background-color: goldenrod;
+    width: 500px;
+    padding-left: 10;
+    font-family: cursive;
+}
+#paw {
+    padding: 40px;
+    width: fit-content;
+    background-color:burlywood;
+    margin: 10px;    
+    background:beige;
+    font-family: cursive;
+}

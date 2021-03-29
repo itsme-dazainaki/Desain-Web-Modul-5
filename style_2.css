@@ -1,0 +1,56 @@
+p.dotted{border-style: dotted; border-color: violet;}
+p.dashed {border-style: dashed;}
+p.solid {border-style: solid;}
+p.double {border-style: double;}
+p.groove {border-style: groove;}
+p.ridge{border-style: ridge;}
+p.inset{border-style: inset;}
+p.outset{border-style: outset;}
+p.none{border-style: none;}
+
+p {
+    color:salmon;
+    font-family: cursive;
+}
+.pow {
+    padding-left: 10;
+    font-family: cursive;
+    
+}
+.gmbr {
+    width: 200px;
+    float : left;
+    margin-right: 10px;
+}
+
+h4 {
+    color: seashell;
+}
+h5 {
+    color: sienna;
+}
+.kotak1 { /*tanpa Padding */
+    border: 1px solid black;
+    background-color: lightblue;    
+}
+.kotak2 { /*Dengan Padding*/
+    border: 1px solid deeppink;
+    padding: 40px;
+    background-color: lightsalmon;
+}
+.kotak3 { /*Tanpa Margin*/
+    border: 1px solid black;
+    background-color: burlywood;
+}
+.kotak4 { /*Dengan Margin*/
+    border: 1px solid black;
+    margin-top: 20px;
+    margin-left: 50px;
+    background-color:goldenrod;
+}
+
+.gambar {
+    width: 200px;
+    float: left;
+    margin-right: 10px;
+}
